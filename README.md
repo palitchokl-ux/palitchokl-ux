@@ -1,56 +1,59 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,35:312e81,70:6d28d9,100:9333ea&height=200&section=header&text=PALITCHOK&fontSize=65&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=70&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:050505,35:17102d,70:492080,100:101827&height=230&section=header&text=PALITCHOK&fontSize=68&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=TRANSMITTING%20FROM%20THE%20DIGITAL%20UNIVERSE&descSize=12&descColor=a78bfa&descAlignY=65"/>
 
 <br/>
 
-# PALITCHOK LAPMOOL
-
-### `Information Technology Student`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Information+Technology+Student;Future+Software+Engineer;Learning+%7C+Coding+%7C+Creating"/>
-
-<br/>
-
-<a href="https://github.com/palitchokl-ux">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=palitchokl-ux&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2800&pause=1000&color=9B8AFF&center=true&vCenter=true&width=550&lines=INITIALIZING+DEVELOPER+PROFILE...;HELLO%2C+WORLD!+I'M+PALITCHOK.;INFORMATION+TECHNOLOGY+STUDENT;EXPLORING+THE+WORLD+OF+CODE."/>
 
 </div>
 
 ---
 
-## ✦ ABOUT ME
+<div align="center">
 
-<img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### `01 / IDENTITY`
 
-Hello! I'm **PALITCHOK LAPMOOL**.
+**PALITCHOK LAPMOOL**
 
-I'm an Information Technology student who enjoys exploring technology, programming, and software development.
+`Information Technology Student`
 
-- 🎓 Information Technology Student
-- 💻 Interested in Software Development
-- 🌐 Exploring Web Development
-- 🚀 Learning new technologies
-- 🎯 Working towards becoming a Software Engineer
+*Curiosity is my source code.*
 
-<br clear="right"/>
+</div>
+
+<br/>
+
+```bash
+┌──[ palitchok@universe ]─────────────────┐
+│                                         │
+│  STATUS       : Always Learning        │
+│  ROLE         : IT Student              │
+│  INTEREST     : Programming             │
+│  EXPLORING    : Web Development         │
+│  ASPIRATION   : Software Engineer       │
+│                                         │
+└─────────────────────────────────────────┘
+```
 
 ---
 
-## ✦ TECH STACK
-
-**Languages & Programming**
-
 <div align="center">
+
+### `02 / TECHNOLOGY CONSTELLATION`
+
+*Tools that power my journey.*
+
+<br/>
+
+**PROGRAMMING LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"/>
 
 <br/><br/>
 
-**Tools & Development**
+**DEVELOPMENT ENVIRONMENT**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
@@ -58,38 +61,55 @@ I'm an Information Technology student who enjoys exploring technology, programmi
 
 ---
 
-## ✦ GITHUB ANALYTICS
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palitchokl-ux&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github"/>
+### `03 / GITHUB TRANSMISSION`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palitchokl-ux&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb"/>
+*Every contribution tells a story.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palitchokl-ux&show_icons=true&hide_border=true&bg_color=08080f&title_color=a78bfa&icon_color=9d8cff&text_color=d1d5db&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palitchokl-ux&layout=compact&hide_border=true&bg_color=08080f&title_color=a78bfa&text_color=d1d5db"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=palitchokl-ux&theme=transparent&hide_border=true&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=e5e7eb&dates=888888"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=palitchokl-ux&theme=transparent&hide_border=true&ring=a78bfa&fire=9d8cff&currStreakLabel=a78bfa&sideLabels=d1d5db&dates=777777"/>
 
 </div>
 
 ---
 
-## ✦ CURRENT GOALS
+<div align="center">
 
-- [ ] Improve programming skills
-- [ ] Learn advanced web development
-- [ ] Build creative projects
-- [ ] Explore new technologies
-- [ ] Become a Software Engineer
+### `04 / NEXT DESTINATION`
+
+| Mission | Status |
+|:--|:--|
+| Master Programming | In Progress |
+| Explore Web Development | In Progress |
+| Build Personal Projects | In Progress |
+| Become a Software Engineer | Future Goal |
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✧ KEEP LEARNING. KEEP BUILDING. KEEP GROWING. ✧
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3500&pause=1200&color=9B8AFF&center=true&vCenter=true&width=450&lines=END+OF+TRANSMISSION.;THE+NEXT+CHAPTER+IS+STILL+UNWRITTEN.;SEE+YOU+IN+THE+NEXT+COMMIT."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:4c1d95,100:0f172a&height=120&section=footer&animation=fadeIn"/>
+<br/>
 
-**DESIGN · CODE · CREATE**
+<img src="https://komarev.com/ghpvc/?username=palitchokl-ux&style=flat-square&color=7c3aed&label=VISITORS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:492080,50:17102d,100:050505&height=110&section=footer"/>
+
+**PALITCHOK LAPMOOL**
+
+`BUILD IN SILENCE. CREATE WITH PURPOSE.`
 
 </div>
